@@ -1,0 +1,135 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {428, 764}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{70, 70}, {100, 100}}",
+          "background_color" : "RGBA(0.066667,0.403922,0.694118,1.000000)",
+          "class" : "View",
+          "name" : "",
+          "uuid" : "6AEF8AAF-6D19-4CF0-95E5-B9F8E80B716F"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 179}, {137, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "placeholder" : "Cost",
+          "name" : "cost",
+          "frame" : "{{20, 104}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "161137D3-1264-45AB-AFE9-58ED0E35881F",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 264}, {137, 30}}",
+        "class" : "TextField",
+        "attributes" : {
+          "placeholder" : "Margin",
+          "name" : "margin",
+          "frame" : "{{20, 104}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "B7822CA9-1C2F-4577-9E97-6B2B37217443",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 343}, {137, 42}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "calculator",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Calculate",
+          "uuid" : "F696979D-4F99-41E4-BD93-AF4D6C322D4E",
+          "class" : "Button",
+          "background_color" : "RGBA(0.145970,0.145970,0.145970,1.000000)",
+          "name" : "Calculate",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 27}, {416, 61}}",
+        "class" : "Label",
+        "attributes" : {
+          "uuid" : "C2862AD9-F4FD-4E6C-BF27-12FA88160A83",
+          "flex" : "W",
+          "corner_radius" : 0,
+          "background_color" : "RGBA(0.164706,0.615686,0.956863,1.000000)",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "border_color" : "RGBA(0.842105,0.897025,1.000000,1.000000)",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "border_width" : 5,
+          "alignment" : "center",
+          "text" : "Compensation Calculator",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "font_name" : "AmericanTypewriter-Bold",
+          "class" : "Label",
+          "name" : "Comp Calculator",
+          "font_size" : 28
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 427}, {428, 337}}",
+        "class" : "TextView",
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "answer",
+          "editable" : true,
+          "frame" : "{{20, 20}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "94501965-9A77-4DFE-8602-94A9AC202E5A",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {428, 764}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
